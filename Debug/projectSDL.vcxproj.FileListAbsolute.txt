@@ -1,0 +1,2 @@
+C:\Users\Ammar\source\repos\projectSDL\Debug\projectSDL.exe
+D:\Documents\Giki\semester 3\cs221\Project\projectSDL\Debug\projectSDL.exe

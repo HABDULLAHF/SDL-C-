@@ -1,0 +1,4 @@
+﻿  projectSDL.cpp
+D:\Documents\Giki\semester 3\cs221\Project\projectSDL\projectSDL.cpp(33,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Documents\Giki\semester 3\cs221\Project\projectSDL\projectSDL.cpp(34,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  projectSDL.vcxproj -> D:\Documents\Giki\semester 3\cs221\Project\projectSDL\Debug\projectSDL.exe
